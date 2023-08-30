@@ -1,3 +1,6 @@
+Deployed website: https://kavyaiyerr.github.io/pui-hw3/
+Repository link: https://github.com/kavyaiyerr/pui-hw3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
